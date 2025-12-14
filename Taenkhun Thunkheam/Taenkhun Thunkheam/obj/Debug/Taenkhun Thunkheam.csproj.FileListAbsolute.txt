@@ -1,0 +1,7 @@
+C:\Users\AdviceBP\source\repos\Taenkhun Thunkheam\Taenkhun Thunkheam\obj\Debug\Taenkhun Thunkheam.csproj.AssemblyReference.cache
+C:\Users\AdviceBP\source\repos\Taenkhun Thunkheam\Taenkhun Thunkheam\obj\Debug\Taenkhun Thunkheam.csproj.CoreCompileInputs.cache
+C:\Users\AdviceBP\source\repos\Taenkhun Thunkheam\Taenkhun Thunkheam\bin\Debug\Taenkhun Thunkheam.exe.config
+C:\Users\AdviceBP\source\repos\Taenkhun Thunkheam\Taenkhun Thunkheam\bin\Debug\Taenkhun Thunkheam.exe
+C:\Users\AdviceBP\source\repos\Taenkhun Thunkheam\Taenkhun Thunkheam\bin\Debug\Taenkhun Thunkheam.pdb
+C:\Users\AdviceBP\source\repos\Taenkhun Thunkheam\Taenkhun Thunkheam\obj\Debug\Taenkhun Thunkheam.exe
+C:\Users\AdviceBP\source\repos\Taenkhun Thunkheam\Taenkhun Thunkheam\obj\Debug\Taenkhun Thunkheam.pdb
